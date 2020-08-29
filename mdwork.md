@@ -6,4 +6,6 @@
 
 ">a<math>a<xss style=display:block>t<style>X<a title=""</style>a<img src=x onerror=alert()>">.<a>.
 
-var xx = <math style=""><img src=xxx>
+<img onload='alert()'>
+
+var xx = <math style=""><img onload=xxx>
