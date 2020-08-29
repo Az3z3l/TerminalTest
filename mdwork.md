@@ -12,3 +12,7 @@ var xx = <math style=""><img onload=xxx>
 
 
 ![vbscript:alert()](vbscript:alert())
+
+
+![Uh oh...](https://www.example.com/image.png"onload="alert('XSS'))
+
