@@ -11,4 +11,4 @@
 var xx = <math style=""><img onload=xxx>
 
 
-![Uh oh...]("onerror="alert('XSS'))
+![Uh oh...](javascript:alert())
