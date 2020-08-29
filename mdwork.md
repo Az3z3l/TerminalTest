@@ -11,4 +11,4 @@
 var xx = <math style=""><img onload=xxx>
 
 
-![Uh oh...](javascript:alert())
+![vbscript:alert()](vbscript:alert())
